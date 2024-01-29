@@ -8393,19 +8393,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bapti\\.nuget\\packages\\": {}
+    "C:\\Users\\paulo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bapti\\Desktop\\api1\\api1.csproj",
+      "projectUniqueName": "C:\\Users\\paulo\\Documents\\workspace\\Programa de Estágio em Desenvolvimento de Aplicações\\EntitySQL\\api1.csproj",
       "projectName": "api1",
-      "projectPath": "C:\\Users\\bapti\\Desktop\\api1\\api1.csproj",
-      "packagesPath": "C:\\Users\\bapti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bapti\\Desktop\\api1\\obj\\",
+      "projectPath": "C:\\Users\\paulo\\Documents\\workspace\\Programa de Estágio em Desenvolvimento de Aplicações\\EntitySQL\\api1.csproj",
+      "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paulo\\Documents\\workspace\\Programa de Estágio em Desenvolvimento de Aplicações\\EntitySQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bapti\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -8475,7 +8475,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
